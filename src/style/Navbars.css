@@ -1,0 +1,21 @@
+.mr-auto{
+    margin-left: 120px;
+    color: black;
+    
+    
+}
+
+.nav-rigth{
+    margin-left: 280px !important ;
+    color: black;
+}
+
+.btn-started{
+    margin-left: 10px;
+    width: 150px;
+    font-weight: bold;
+    background-color: #2E36FF !important;
+}
+.nav-brand  {
+    margin-left: 80px;
+}
